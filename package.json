@@ -138,7 +138,7 @@
     "chalk": "^2.1.0",
     "concurrently": "^3.5.0",
     "cross-env": "^5.0.0",
-    "cross-spawn": "^5.1.0",
+    "cross-spawn": "^6.0.6",
     "css-loader": "^0.28.3",
     "electron": "^1.8.1",
     "electron-builder": "^19.22.1",
